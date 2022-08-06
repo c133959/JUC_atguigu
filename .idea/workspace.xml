@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3c701ef-b56e-4d59-8f3d-bc4e3b6c4226" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\办公\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28L0NIEFgaEhKtTijLit4FpgIrm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.sync" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.demo1">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.a0703ThreadPool.Demo" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.a0703ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.a0703ThreadPool.Demo2" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.a0703ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.a0703ThreadPool.Demo3" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.a0703ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdConsumerBlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.prodConsumerDemo.ProdConsumerBlockingQueueDemo" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.prodConsumerDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.a0707DeadLockDemo.demo1" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.a0707DeadLockDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.ProdConsumerBlockingQueueDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3c701ef-b56e-4d59-8f3d-bc4e3b6c4226" name="Default Changelist" comment="" />
+      <created>1650980528788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650980528788</updated>
+      <workItem from="1650980534118" duration="3861000" />
+      <workItem from="1652878753798" duration="3201000" />
+      <workItem from="1652965731215" duration="4179000" />
+      <workItem from="1653915465406" duration="1998000" />
+      <workItem from="1655125452566" duration="601000" />
+      <workItem from="1655728630076" duration="3922000" />
+      <workItem from="1655816326873" duration="1683000" />
+      <workItem from="1655900695500" duration="5918000" />
+      <workItem from="1655985852653" duration="2209000" />
+      <workItem from="1656127439845" duration="604000" />
+      <workItem from="1656420195719" duration="1251000" />
+      <workItem from="1656508309167" duration="3586000" />
+      <workItem from="1656594501425" duration="2783000" />
+      <workItem from="1656679780390" duration="1573000" />
+      <workItem from="1656735493679" duration="594000" />
+      <workItem from="1656765885515" duration="4121000" />
+      <workItem from="1656833856300" duration="9101000" />
+      <workItem from="1656939543903" duration="1769000" />
+      <workItem from="1657024281049" duration="1756000" />
+      <workItem from="1657112130914" duration="1786000" />
+      <workItem from="1657199482361" duration="2231000" />
+      <workItem from="1657367644507" duration="606000" />
+      <workItem from="1657418921783" duration="96000" />
+      <workItem from="1658243617230" duration="761000" />
+      <workItem from="1659533603714" duration="744000" />
+      <workItem from="1659776051569" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1656839117433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1656839117433" />
+    <state x="450" y="257" width="469" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1657199540679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="257" width="469" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1657199540679" />
+    <state x="467" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1652878820978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1652878820978" />
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1657207743661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1657207743661" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1657207743661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1657207743661" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1657207743661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1657207743661" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1657207743661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1657207743661" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1656948314364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1656948314364" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1656948314364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1656948314364" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1656948314364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1656948314364" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1656948314364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1656948314364" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1656835286437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1656835286437" />
+    <state x="381" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1655986045488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1655986045488" />
+    <state x="57" y="0" key="new project wizard" timestamp="1657419011430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1657419011430" />
+    <state x="444" y="237" width="628" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1656510667925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="237" width="628" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1656510667925" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1658243736806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1658243736806" />
+  </component>
+</project>
